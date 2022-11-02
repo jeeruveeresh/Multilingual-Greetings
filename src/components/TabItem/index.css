@@ -1,0 +1,21 @@
+.active {
+  border-radius: 8px;
+  border-color: #db1c48;
+  border-style: solid;
+  background-color: transparent;
+  margin-left: 10px;
+  color: #db1c48;
+  height: 25px;
+  width: 60px;
+}
+
+.active-tab {
+  border-radius: 8px;
+  background-color: #db1c48;
+  border-style: solid;
+  border: 0px;
+  color: #ffffff;
+  height: 25px;
+  width: 60px;
+  margin-left: 10px;
+}
